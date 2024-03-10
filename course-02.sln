@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "course-05-conversionAndForm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "course-06-ifelse", "course-06-ifelse\course-06-ifelse.csproj", "{B61ABAD5-1D3F-4F0E-A6A2-6A75BBD2B87E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "course-07-whileloop", "course-07-whileloop\course-07-whileloop.csproj", "{2E87E07A-8B02-4F63-8E3E-3CA0E8265D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "course-08-forloop", "course-08-forloop\course-08-forloop.csproj", "{82F97415-A7B1-4805-89A3-D449C52FC2B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{B61ABAD5-1D3F-4F0E-A6A2-6A75BBD2B87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B61ABAD5-1D3F-4F0E-A6A2-6A75BBD2B87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B61ABAD5-1D3F-4F0E-A6A2-6A75BBD2B87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E87E07A-8B02-4F63-8E3E-3CA0E8265D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E87E07A-8B02-4F63-8E3E-3CA0E8265D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E87E07A-8B02-4F63-8E3E-3CA0E8265D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E87E07A-8B02-4F63-8E3E-3CA0E8265D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F97415-A7B1-4805-89A3-D449C52FC2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F97415-A7B1-4805-89A3-D449C52FC2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F97415-A7B1-4805-89A3-D449C52FC2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F97415-A7B1-4805-89A3-D449C52FC2B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/bin/Debug/net8.0/course-08-forloop
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/bin/Debug/net8.0/course-08-forloop.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/bin/Debug/net8.0/course-08-forloop.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/bin/Debug/net8.0/course-08-forloop.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/bin/Debug/net8.0/course-08-forloop.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/refint/course-08-forloop.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/course-08-forloop.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-08-forloop/obj/Debug/net8.0/ref/course-08-forloop.dll
