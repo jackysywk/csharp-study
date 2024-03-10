@@ -1,0 +1,14 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/bin/Debug/net8.0/course-05-conversionAndFormat
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/bin/Debug/net8.0/course-05-conversionAndFormat.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/bin/Debug/net8.0/course-05-conversionAndFormat.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/bin/Debug/net8.0/course-05-conversionAndFormat.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/bin/Debug/net8.0/course-05-conversionAndFormat.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/refint/course-05-conversionAndFormat.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/course-05-conversionAndFormat.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-05-conversionAndFormat/obj/Debug/net8.0/ref/course-05-conversionAndFormat.dll

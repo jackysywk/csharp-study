@@ -1,0 +1,14 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/bin/Debug/net8.0/course-04-VariableAndType
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/bin/Debug/net8.0/course-04-VariableAndType.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/bin/Debug/net8.0/course-04-VariableAndType.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/bin/Debug/net8.0/course-04-VariableAndType.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/bin/Debug/net8.0/course-04-VariableAndType.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/refint/course-04-VariableAndType.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/course-04-VariableAndType.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-04-VariableAndType/obj/Debug/net8.0/ref/course-04-VariableAndType.dll
