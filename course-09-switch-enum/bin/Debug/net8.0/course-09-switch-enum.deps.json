@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "course-09-switch-enum/1.0.0": {
+        "runtime": {
+          "course-09-switch-enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "course-09-switch-enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

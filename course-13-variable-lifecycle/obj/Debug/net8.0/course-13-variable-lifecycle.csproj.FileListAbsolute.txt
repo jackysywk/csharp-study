@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/bin/Debug/net8.0/course-13-variable-lifecycle
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/bin/Debug/net8.0/course-13-variable-lifecycle.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/bin/Debug/net8.0/course-13-variable-lifecycle.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/bin/Debug/net8.0/course-13-variable-lifecycle.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/bin/Debug/net8.0/course-13-variable-lifecycle.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/refint/course-13-variable-lifecycle.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/course-13-variable-lifecycle.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-13-variable-lifecycle/obj/Debug/net8.0/ref/course-13-variable-lifecycle.dll

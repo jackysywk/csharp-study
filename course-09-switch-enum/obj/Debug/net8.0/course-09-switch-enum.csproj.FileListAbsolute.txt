@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/bin/Debug/net8.0/course-09-switch-enum
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/bin/Debug/net8.0/course-09-switch-enum.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/bin/Debug/net8.0/course-09-switch-enum.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/bin/Debug/net8.0/course-09-switch-enum.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/bin/Debug/net8.0/course-09-switch-enum.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/refint/course-09-switch-enum.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/course-09-switch-enum.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-09-switch-enum/obj/Debug/net8.0/ref/course-09-switch-enum.dll

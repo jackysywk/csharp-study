@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "course-13-variable-lifecycle/1.0.0": {
+        "runtime": {
+          "course-13-variable-lifecycle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "course-13-variable-lifecycle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
