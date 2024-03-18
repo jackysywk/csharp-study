@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/bin/Debug/net8.0/course-14-class-object
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/bin/Debug/net8.0/course-14-class-object.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/bin/Debug/net8.0/course-14-class-object.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/bin/Debug/net8.0/course-14-class-object.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/bin/Debug/net8.0/course-14-class-object.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/refint/course-14-class-object.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/course-14-class-object.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-14-class-object/obj/Debug/net8.0/ref/course-14-class-object.dll
