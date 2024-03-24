@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("course-13-variable-lifecycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe1c6a8873e07a2103dad45833ce336f259fa67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da722ae0983dc38c55a045237556fc5f199511c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("course-13-variable-lifecycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("course-13-variable-lifecycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

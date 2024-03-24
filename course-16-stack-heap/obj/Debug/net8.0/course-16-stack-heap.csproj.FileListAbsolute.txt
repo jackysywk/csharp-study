@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/bin/Debug/net8.0/course-16-stack-heap
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/bin/Debug/net8.0/course-16-stack-heap.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/bin/Debug/net8.0/course-16-stack-heap.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/bin/Debug/net8.0/course-16-stack-heap.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/bin/Debug/net8.0/course-16-stack-heap.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/refint/course-16-stack-heap.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/course-16-stack-heap.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-16-stack-heap/obj/Debug/net8.0/ref/course-16-stack-heap.dll

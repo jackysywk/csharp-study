@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "course-17-property-hw/1.0.0": {
+        "runtime": {
+          "course-17-property-hw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "course-17-property-hw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

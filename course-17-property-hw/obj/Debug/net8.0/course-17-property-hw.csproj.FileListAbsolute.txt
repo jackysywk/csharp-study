@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/bin/Debug/net8.0/course-17-property-hw
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/bin/Debug/net8.0/course-17-property-hw.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/bin/Debug/net8.0/course-17-property-hw.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/bin/Debug/net8.0/course-17-property-hw.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/bin/Debug/net8.0/course-17-property-hw.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/refint/course-17-property-hw.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/course-17-property-hw.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-property-hw/obj/Debug/net8.0/ref/course-17-property-hw.dll

@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/bin/Debug/net8.0/course-15-object-method-function
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/bin/Debug/net8.0/course-15-object-method-function.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/bin/Debug/net8.0/course-15-object-method-function.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/bin/Debug/net8.0/course-15-object-method-function.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/bin/Debug/net8.0/course-15-object-method-function.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/refint/course-15-object-method-function.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/course-15-object-method-function.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-15-object-method-function/obj/Debug/net8.0/ref/course-15-object-method-function.dll

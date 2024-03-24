@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/bin/Debug/net8.0/course-17-static-property
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/bin/Debug/net8.0/course-17-static-property.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/bin/Debug/net8.0/course-17-static-property.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/bin/Debug/net8.0/course-17-static-property.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/bin/Debug/net8.0/course-17-static-property.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/refint/course-17-static-property.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/course-17-static-property.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-17-static-property/obj/Debug/net8.0/ref/course-17-static-property.dll
