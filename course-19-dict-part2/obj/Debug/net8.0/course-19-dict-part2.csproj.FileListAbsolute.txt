@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/bin/Debug/net8.0/course-19-dict-part2
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/bin/Debug/net8.0/course-19-dict-part2.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/bin/Debug/net8.0/course-19-dict-part2.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/bin/Debug/net8.0/course-19-dict-part2.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/bin/Debug/net8.0/course-19-dict-part2.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/refint/course-19-dict-part2.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/course-19-dict-part2.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-dict-part2/obj/Debug/net8.0/ref/course-19-dict-part2.dll

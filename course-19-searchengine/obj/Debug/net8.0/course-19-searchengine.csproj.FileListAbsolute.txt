@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/bin/Debug/net8.0/course-19-searchengine
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/bin/Debug/net8.0/course-19-searchengine.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/bin/Debug/net8.0/course-19-searchengine.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/bin/Debug/net8.0/course-19-searchengine.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/bin/Debug/net8.0/course-19-searchengine.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/refint/course-19-searchengine.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/course-19-searchengine.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-19-searchengine/obj/Debug/net8.0/ref/course-19-searchengine.dll

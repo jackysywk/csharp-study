@@ -1,0 +1,15 @@
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/bin/Debug/net8.0/course-20-rewrite-nullable-type-01
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/bin/Debug/net8.0/course-20-rewrite-nullable-type-01.deps.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/bin/Debug/net8.0/course-20-rewrite-nullable-type-01.runtimeconfig.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/bin/Debug/net8.0/course-20-rewrite-nullable-type-01.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/bin/Debug/net8.0/course-20-rewrite-nullable-type-01.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.AssemblyInfoInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.AssemblyInfo.cs
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.csproj.CoreCompileInputs.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.sourcelink.json
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/refint/course-20-rewrite-nullable-type-01.dll
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.pdb
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/course-20-rewrite-nullable-type-01.genruntimeconfig.cache
+/Users/jackysy/Desktop/unity-game-course/CSharp-Jacky/course-20-rewrite-nullable-type-01/obj/Debug/net8.0/ref/course-20-rewrite-nullable-type-01.dll
